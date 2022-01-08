@@ -13,6 +13,8 @@
 - 😄 &nbsp; Fun fact : Somewhat sort of an audiophile. 
 - 💬 &nbsp; I believe in a GREENER Earth 🌍, I always want to learn new things and try them out.
 - 🔮 &nbsp; LIFE, TIME & CHANCE. 
+  
+<br>
 
 <h3>🛠 Tech Stack</h3>
 
