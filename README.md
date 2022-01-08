@@ -17,9 +17,9 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Kotlin | Dart | Java  
-- 🌐 &nbsp; Android | Flutter | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; ROOM | Firebase | 
-- 🔧 &nbsp; Android Studio | Intelli J | Visual Studio code | Git
+- 🌐 &nbsp; Android | Flutter | HTML | CSS | JavaScript |
+- 🛢 &nbsp; ROOM | Firebase
+- 🔧 &nbsp; Android Studio | Intelli J | Visual Studio code | Git | GitHub
 - 🖥 &nbsp; Adobe Xd | Figma 
 
 <br>
