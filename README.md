@@ -26,7 +26,7 @@
   
 <h3> 🤝🏻 Connect with Me </h3>
 
-- 💼 E-mail me at <a href="mailto:dubemezeagwu@gmail.com">dubemezeagwu@gmail.com</a>
+- 📧 E-mail me at <a href="mailto:dubemezeagwu@gmail.com">dubemezeagwu@gmail.com</a>
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/chukwudubem-ezeagwu-991525177/">LinkedIn</a>
 - 🎧 Listening to all my favorite jams on <a href="https://open.spotify.com/user/chuksie_ovo?si=35b0ba71d7fb4675">Spotify</a>
 - 🌐 Writing articles and tech posts here <a href="https://medium.com/@chuksieovo">Medium</a>
