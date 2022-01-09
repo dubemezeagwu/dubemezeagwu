@@ -8,7 +8,7 @@
 - 💼 &nbsp; Currently open to Mobile Engineering roles.
 - 🎓 &nbsp; Finished from Covenant University with a Degree in Industrial Physics (Electronics & Information Technology).
 - 🌱 &nbsp; Interested in learning, building & collaborating on Blockchain and Web-3 projects.
-- 🥪 &nbsp; Looking for help with materials on Blockchain Engineering, Web-3, Cryptocurrency, DApps.
+- 🥪 &nbsp; Looking for help with materials on Blockchain Engineering, Web-3, DeFi & DApps.
 - 🎾 &nbsp; Experiencing nature, watching football, playing video games and travelling as hobbies.
 - 😄 &nbsp; Fun fact : Somewhat sort of an audiophile. 
 - 💬 &nbsp; I believe in a GREENER Earth 🌍, I always want to learn new things and try them out.
