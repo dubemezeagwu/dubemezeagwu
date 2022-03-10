@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Dubem. 👋🏽 &nbsp;
-<img align="right" alt="GIF" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="250"/>
+<img align="center" alt="GIF" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="200"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -39,8 +39,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dubemezeagwu&include_all=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="dubemezeagwu's Github Stats">
 
 </br>
-
-[![Dubem's GitHub stats](https://github-readme-stats.vercel.app/api?username=dubemezeagwu)](https://github.com/dubemezeagwu/github-readme-stats&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dubemezeagwu&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/dubemezeagwu/github-readme-stats)
 
