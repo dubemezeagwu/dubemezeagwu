@@ -40,10 +40,8 @@
 
 </br>
 
-<br>
 [![Dubem's GitHub stats](https://github-readme-stats.vercel.app/api?username=dubemezeagwu)](https://github.com/dubemezeagwu/github-readme-stats)
 
-</br> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dubemezeagwu&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/dubemezeagwu/github-readme-stats)
 
 
