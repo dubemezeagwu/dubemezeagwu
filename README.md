@@ -1,5 +1,4 @@
 <h2> Hey there! I'm Dubem. 👋🏽 &nbsp;
-<img align="center" alt="GIF" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="200"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -7,8 +6,7 @@
 - 🛠 &nbsp; I’m currently working on Native Android & Flutter Projects.
 - 💼 &nbsp; Currently open to Mobile Engineering roles.
 - 🎓 &nbsp; Finished from Covenant University with a Degree in Industrial Physics (Electronics & Information Technology).
-- 🌱 &nbsp; Interested in learning, building & collaborating on Blockchain and Web-3 projects.
-- 🥪 &nbsp; Looking for help with materials on Blockchain Engineering, Web-3, DeFi & DApps.
+- 🌱 &nbsp; Interested in learning, building DApps, Blockchain and Web3 initiatives.
 - 🎾 &nbsp; Experiencing nature, watching football, playing video games and travelling as hobbies.
 - 😄 &nbsp; Fun fact : Somewhat sort of an audiophile. 
 - 💬 &nbsp; I believe in a GREENER Earth 🌍, I always want to learn new things and try them out.
