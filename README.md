@@ -3,10 +3,10 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 👨🏽 &nbsp; I’m a Mobile Application Engineer/Developer.
-- 🛠 &nbsp; I’m currently working on Native Android & Flutter Projects.
+- 🛠 &nbsp; I’m currently working on Flutter & Native Android Projects.
+- 🔭 &nbsp; I’m looking to working/collaborating on creating soutions in Fintech, E-commerce, Logistics, Small-scale management systems.
 - 💼 &nbsp; Currently open to Mobile Engineering roles.
-- 🎓 &nbsp; Finished from Covenant University with a Degree in Industrial Physics (Electronics & Information Technology).
-- 🌱 &nbsp; Interested in learning, building DApps, Blockchain and Web3 initiatives.
+- 🌱 &nbsp; Interested in learning Back-End development & building DApps & Blockchain initiatives.
 - 🎾 &nbsp; Experiencing nature, watching football, playing video games and travelling as hobbies.
 - 😄 &nbsp; Fun fact : Somewhat sort of an audiophile. 
 - 💬 &nbsp; I believe in a GREENER Earth 🌍, I always want to learn new things and try them out.
@@ -16,11 +16,15 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Kotlin | Dart | Java  
-- 🌐 &nbsp; Android | Flutter | HTML | CSS | JavaScript |
-- 🛢 &nbsp; ROOM | Firebase
-- 🔧 &nbsp; Android Studio | Intelli J | Visual Studio code | Git | GitHub
-- 🖥 &nbsp; Adobe Xd | Figma 
+- 💻 &nbsp; ![Dart](https://img.shields.io/badge/-Dart-07405E?style=flat&logo=dart)&nbsp; 
+            ![Kotlin](https://img.shields.io/badge/-Kotlin-07405E?style=flat&logo=kotlin&logoColor=white)&nbsp;
+            ![Kotlin](https://img.shields.io/badge/-Java-07405E?style=flat&logo=java&logoColor=white)&nbsp;
+             
+- 🏭 &nbsp; ![Flutter](https://img.shields.io/badge/-Flutter-07405E?style=flat&logo=flutter)&nbsp;
+            ![Android](https://img.shields.io/badge/Android-07405E?style=flat&logo=android&logoColor=white)&nbsp;
+  
+- 🛢 &nbsp; ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+  
 
 <br>
   
@@ -28,11 +32,14 @@
 
 - 📧 E-mail me at <a href="mailto:dubemezeagwu@gmail.com">dubemezeagwu@gmail.com</a>
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/chukwudubem-ezeagwu-991525177/">LinkedIn</a>
-- 🎧 Listening to all my favorite jams on <a href="https://open.spotify.com/user/chuksie_ovo?si=35b0ba71d7fb4675">Spotify</a>
-- 🌐 Writing articles and tech posts here <a href="https://medium.com/@chuksieovo">Medium</a>
+- 🎧 Listening to all my favorite jams at the moment on <a href="https://open.spotify.com/playlist/37i9dQZF1EpocwtlunZfyT?si=57eeacc9649b445c">Spotify</a>
+- 🌐 Writing articles and tech posts here <a href="https://medium.com/@dubemezeagwu">Medium</a>
 - 🐦 Tweeting about randoms, my life and tech on <a href="https://twitter.com/wysdubem/">Twitter</a>
   
 <br>
+  
+[![wakatime](https://wakatime.com/badge/user/77383dc3-6ece-48f8-ad4c-c3522ae2efa3.svg)](https://wakatime.com/@77383dc3-6ece-48f8-ad4c-c3522ae2efa3)
+![Profile views](https://gpvc.arturio.dev/dubemezeagwu)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dubemezeagwu&include_all=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="dubemezeagwu's Github Stats">
 
@@ -42,7 +49,7 @@
 
 
 
-⭐️ From [Dubem Ezeagwu](https://github.com/dubemezeagwu)
+💙&⭐️ From [Dubem Ezeagwu](https://github.com/dubemezeagwu)
 
 <!--
 **dubemezeagwu/dubemezeagwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
