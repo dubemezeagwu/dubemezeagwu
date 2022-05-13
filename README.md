@@ -41,11 +41,10 @@
 [![wakatime](https://wakatime.com/badge/user/77383dc3-6ece-48f8-ad4c-c3522ae2efa3.svg)](https://wakatime.com/@77383dc3-6ece-48f8-ad4c-c3522ae2efa3)
 ![Profile views](https://gpvc.arturio.dev/dubemezeagwu)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dubemezeagwu&include_all=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="dubemezeagwu's Github Stats">
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dubemezeagwu&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/dubemezeagwu/github-readme-stats)
+![Dubem's GitHub stats](https://github-readme-stats.vercel.app/api?username=dubemezeagwu&count_private=true&theme=cobalt&show_icons=true&include_all=true&line_height=20)
 
 
 
