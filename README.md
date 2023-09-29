@@ -64,7 +64,8 @@
 <br>
   
 [![wakatime](https://wakatime.com/badge/user/77383dc3-6ece-48f8-ad4c-c3522ae2efa3.svg)](https://wakatime.com/@77383dc3-6ece-48f8-ad4c-c3522ae2efa3)
-![Profile views](https://gpvc.arturio.dev/dubemezeagwu)
+![Profile views](https://komarev.com/ghpvc/?username=dubemezeagwu&label=Profile%20views&color=0e75b6&style=flat)
+
 
 
 </br>
