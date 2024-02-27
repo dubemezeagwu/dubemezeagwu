@@ -4,9 +4,9 @@
 
 - 👨🏽 &nbsp; I’m a Mobile Application Engineer/Developer.
 - 🛠 &nbsp; I’m currently working on Flutter & Native Android Projects.
-- 🔭 &nbsp; I’m looking to work/collaborate on creating solutions in Fintech, E-commerce, Logistics, and Small-scale management systems.
+- 🔭 &nbsp; I’m looking to work/collaborate on creating solutions in Fintech, Blockchain, E-commerce, Logistics, and Small-scale management systems.
 - 💼 &nbsp; Currently open to Mobile Engineering roles.
-- 🌱 &nbsp; Currently learning Back-End development with Node.js.
+- 🌱 &nbsp; Currently learning Back-End development with Node.js & Blockchain with Solidity.
 - 🎾 &nbsp; Experiencing nature, watching football, playing video games and travelling as hobbies.
 - 😄 &nbsp; Fun fact: I am somewhat sort of an audiophile. 
 - 💬 &nbsp; I believe in a GREENER Earth 🌍, I always want to learn new things and try them out.
