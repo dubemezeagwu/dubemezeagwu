@@ -2,11 +2,11 @@
 
 <h3> 👨🏽‍💻 About Me </h3>
 
-- 👨🏽 &nbsp; I’m a Mobile Application Engineer/Developer.
+- 👨🏽 &nbsp; I’m a Software Engineer proficient in Mobile Application Development.
 - 🛠 &nbsp; I’m currently working on Flutter & Native Android Projects.
-- 🔭 &nbsp; I’m looking to work/collaborate on creating solutions in Fintech, Blockchain, E-commerce, Logistics, and Small-scale management systems.
+- 🔭 &nbsp; I’m looking to work/collaborate on creating solutions in Fintech, Blockchain, E-commerce, Logistics, and Distributed systems.
 - 💼 &nbsp; Currently open to Mobile Engineering roles.
-- 🌱 &nbsp; Currently learning Back-End development with Node.js & Blockchain with Solidity.
+- 🌱 &nbsp; Currently learning Back-End development with Go & CI/CD initiatives for DevOps.
 - 🎾 &nbsp; Experiencing nature, listening to music, watching football, playing video games and travelling as hobbies.
 - 😄 &nbsp; Fun fact: I am somewhat sort of an audiophile. 
 - 💬 &nbsp; I believe in a GREENER Earth 🌍, I always want to learn new things and try them out.
@@ -21,6 +21,7 @@
             <img src="https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin"/>
             <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
             <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=android"/>
+            <img src="https://img.shields.io/badge/-Go-black?style=flat-square&logo=go"/>
              
 - 🏭 &nbsp;
             <img src="https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=Flutter"/>
@@ -35,6 +36,7 @@
             <img src="https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=SQLite"/>
             <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
             <img src="https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase"/>
+            <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
   
 
 <br>
