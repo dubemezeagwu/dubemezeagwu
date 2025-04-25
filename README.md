@@ -59,6 +59,7 @@
 
 - 📧 E-mail me at <a href="mailto:dubemezeagwu@gmail.com">dubemezeagwu@gmail.com</a>
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/chukwudubem-ezeagwu-991525177/">LinkedIn</a>
+- 📞 Book a call/meeting with me here <a href="https://calendly.com/dubemezeagwu">Calendly</a>
 - 🎧 Listening to all my favorite jams at the moment on <a href="https://open.spotify.com/playlist/37i9dQZF1EpocwtlunZfyT?si=57eeacc9649b445c">Spotify</a>
 - 🌐 Check out my articles and technical posts here <a href="https://medium.com/@dubemezeagwu">Medium</a>
 - 🐦 Tweeting about randoms, my life and tech on <a href="https://twitter.com/wysdubem/">Twitter</a>
