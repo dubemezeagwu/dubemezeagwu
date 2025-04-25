@@ -73,8 +73,9 @@
 
 </br>
 
+<!--
 ![Dubem's GitHub stats](https://github-readme-stats.vercel.app/api?username=dubemezeagwu&count_private=true&theme=cobalt&show_icons=true&include_all=true&line_height=20)
-
+-->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dubemezeagwu&" alt="Dubem" /></p>
 
 💙&⭐️ From [Dubem Ezeagwu](https://github.com/dubemezeagwu)
