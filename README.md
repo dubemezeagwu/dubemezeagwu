@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Dubem. 👋🏽 &nbsp;
+<h2> Hey there! I'm Dubem. 👋🏾 &nbsp;
 
 <h3> 👨🏽‍💻 About Me </h3>
 
@@ -55,7 +55,7 @@
  
  </p>
   
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> 🤝🏾 Connect with Me </h3>
 
 - 📧 E-mail me at <a href="mailto:dubemezeagwu@gmail.com">dubemezeagwu@gmail.com</a>
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/chukwudubem-ezeagwu-991525177/">LinkedIn</a>
