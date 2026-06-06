@@ -1,6 +1,6 @@
 ### Hey there, I'm Dubem 👋🏾
 
----
+<br>
 
 - 🛠️ &nbsp; Proficient in mobile application development and expanding into server-side & cloud-native initiatives.  
 - 🔭 &nbsp; Exploring concepts on distributed systems, blockchain, edge computing and consumer IoT.  
@@ -8,7 +8,7 @@
 - 🎾 &nbsp; In my free time, I enjoy nature, collecting vinyl, football, gaming, and travel.    
 - 🔮 &nbsp; To never try is the ultimate fail.
 
----
+<br>
 
 ### Stack
 
@@ -18,7 +18,7 @@
   </a>
 </p>
 
----
+<br>
 
 ### Connect
 
@@ -32,7 +32,7 @@
   <a href="https://medium.com/@dubemezeagwu"><img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white" /></a>
 </p>
 
----
+<br>
 
 <p align="center">
   <a href="https://wakatime.com/@77383dc3-6ece-48f8-ad4c-c3522ae2efa3">
