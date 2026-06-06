@@ -1,4 +1,5 @@
-<h3 align="left">Hey there, I'm Dubem 👋🏾</h3>
+### Hey there, I'm Dubem 👋🏾
+
 <br>
 
 - 🛠️ &nbsp; Proficient in mobile application development and expanding into server-side & cloud-native initiatives.  
@@ -9,7 +10,7 @@
 
 <br>
 
-<h3 align="left">Stack</h3>
+### Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -19,7 +20,7 @@
 
 <br>
 
-<h3 align="left">Connect</h3>
+### Connect
 
 <p align="center">
   <a href="mailto:dubemezeagwu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
