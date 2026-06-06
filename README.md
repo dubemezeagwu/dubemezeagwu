@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://i.icoziv.workers.dev/icons?i=flutter,android,dart,kotlin,ios,swift,java,go,js,nodejs,express,py,postgresql,redis,mongodb,mysql,sqlite,docker,kubernetes,gcp,firebase,supabase,github,githubactions&perline=12" />
+    <img src="https://i.icoziv.workers.dev/icons?i=flutter,android,dart,kotlin,ios,swift,java,go,js,nodejs,express,py,arduino,postgresql,redis,mongodb,mysql,sqlite,linux,docker,kubernetes,gcp,firebase,supabase,github,githubactions&perline=13" />
   </a>
 </p>
 
