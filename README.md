@@ -22,7 +22,15 @@
 
 ### Connect
 
-[📧 Email](mailto:dubemezeagwu@gmail.com) · [💼 LinkedIn](https://www.linkedin.com/in/dubemezeagwu/) · [📅 Calendly](https://calendly.com/dubemezeagwu) · [✍️ Medium](https://medium.com/@dubemezeagwu)
+<p align="center">
+  <a href="mailto:dubemezeagwu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/dubemezeagwu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://calendly.com/dubemezeagwu"><img src="https://img.shields.io/badge/Calendly-006BFF?style=flat&logo=calendly&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://medium.com/@dubemezeagwu"><img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white" /></a>
+</p>
 
 ---
 
