@@ -3,8 +3,8 @@
 <br>
 
 - 🛠️ &nbsp; Proficient in mobile application development and expanding into server-side & cloud-native initiatives.  
-- 🔭 &nbsp; Exploring concepts on distributed systems, blockchain, edge computing and consumer IoT.  
-- 🌱 &nbsp; Learning Go, DevOps, Docker, Kubernetes, and CI/CD pipelines.  
+- 🔭 &nbsp; Exploring concepts on distributed systems, blockchain, MDM/EMM and IoT.  
+- 🌱 &nbsp; Leveling up in Go, DevOps, Docker, Kubernetes, and CI/CD pipelines.  
 - 🎾 &nbsp; In my free time, I enjoy nature, collecting vinyl, football, gaming, and travel.    
 - 🔮 &nbsp; To never try is the ultimate fail.
 
